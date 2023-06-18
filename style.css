@@ -1,0 +1,7 @@
+.alert .dialog-pane .header-panel .graphic-container .graphic {
+    -fx-background-image: url(com/example/Sudoku/Logo.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 24px;
+    -fx-background-position: center center;
+}
+
